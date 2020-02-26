@@ -10,11 +10,12 @@
 
 .settings__setting .settings__title {
   font-size: 22px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .settings .settings__setting {
   margin-bottom: 30px;
+  cursor: pointer;
 }
 
 .settings .settings__setting:last-child {
