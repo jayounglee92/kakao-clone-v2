@@ -1,4 +1,4 @@
-# kakao-clone
+# 🍮 kakao-clone
 
 > This is a personal project that clone Kakao Application(Chat App) with HTML, CSS
 <img src="/_info-img/info-kakao-01.gif" width="300" height="650">
